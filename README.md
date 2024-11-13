@@ -1,7 +1,7 @@
 ## 👋 From the Team at Biddable Assets :)
 
-We're working on a set of algorithmic tools that span programmatic and social platforms.
-Out tools empower:
+We develop custom algorithms to optmize media accross programmatic and social platforms.
+We empower Media Teams to...
 
 *Media Teams* <br>
 add examples
